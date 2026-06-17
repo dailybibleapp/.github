@@ -59,6 +59,12 @@ Maintainers may:
 - Reject non-compliant pull requests
 - Temporarily restrict participation for repeated violations
 
+### Reporting
+
+To report a Code of Conduct concern, contact the maintainers privately at
+`roman.tsuhel@kevychsolutions.com`. Reports are handled confidentially. Please do
+not include sensitive personal data beyond what is necessary to describe the issue.
+
 ---
 
 ## Scope

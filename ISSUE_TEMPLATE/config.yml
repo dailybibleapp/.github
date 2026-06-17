@@ -1,0 +1,9 @@
+# Require contributors to use the structured templates above.
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & discussions
+    url: https://github.com/orgs/dailybibleapp/discussions
+    about: Ask questions and discuss ideas here instead of opening an issue.
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/dailybibleapp/.github/security/policy
+    about: Please report vulnerabilities privately — do not open a public issue.
